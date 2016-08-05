@@ -6,9 +6,11 @@ color:
   saturation: 0.8573829794768244
   rhythmicContrast: 0.7411833617370576
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Koz Susani Design
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d329fee5-952d-49cc-ac6b-ff4cd9b907b5.png
