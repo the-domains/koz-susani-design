@@ -1,4 +1,3 @@
-layout_spectrum: 0.015436757821589708
 typography_spectrum: 0.3861054324079305
 color:
   brandStrength: 0.26355402544140816
@@ -11,6 +10,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Koz Susani Design
+layout_spectrum: 0.015436757821589708
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d329fee5-952d-49cc-ac6b-ff4cd9b907b5.png
+name: Koz Susani Design
+title: calm beauty
