@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T19:39:13.720Z'
+datePublished: '2016-08-05T19:41:33.096Z'
 sourcePath: _posts/2016-04-16-3sixteen-herman-miller.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,26 +18,17 @@ keywords:
   - worn-in
 related: []
 author: []
-dateModified: '2016-08-05T19:39:12.536Z'
-title: 3sixteen + Herman Miller
+via: {}
+dateModified: '2016-08-05T19:41:32.711Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
-description: >-
-  LES-based raw denim fiends 3sixteen advocate skilled craftsmanship and
-  longevity-which is why they often post photos of their customers' faded,
-  worn-in jeans after years of use. Thus, their special collaboration with
-  design manufacturer Herman Miller makes perfect sense, as there's a shared
-  commitment to inspiring through timeless, dependable design.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>3sixteen + Herman Miller</h1><p>LES-based raw denim fiends 3sixteen advocate skilled craftsmanship and longevity-which is why they often post photos of their customers' faded, worn-in jeans after years of use. Thus, their special collaboration with design manufacturer Herman Miller makes perfect sense, as there's a shared commitment to inspiring through timeless, dependable design.</p><img src="http://assets.coolhunting.com/coolhunting/2015/12/09/large_3sixteen-herman-miller-thub.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3361adb-261e-40f0-98a8-df56b13d8d7c.jpg)
